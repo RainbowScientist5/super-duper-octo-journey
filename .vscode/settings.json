@@ -1,0 +1,23 @@
+{
+  "cSpell.words": [
+    "trpc",
+    "octocat",
+    "pbcopy",
+    "tailwindcss",
+    "signin",
+    "supabase"
+  ],
+  "[json][jsonc]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "Courier",
+  "editor.fontSize": 13,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
